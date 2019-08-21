@@ -1,4 +1,4 @@
-<?php/*
+<?php
 ob_start();
 include_once("db_connect.php");
 session_start();
@@ -21,7 +21,7 @@ if (isset($_POST['login'])) {
   </button>
 </div>';
 	}
-}*/
+}
 ?>
 <!DOCTYPE html>
 <html lang="fr">
